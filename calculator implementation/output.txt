@@ -1,0 +1,8 @@
+Result: 81
+Result: 13.600000
+Result: 18
+Result: 9.000000
+Result: 4
+Result: 33
+Result: -22594
+Finished
