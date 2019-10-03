@@ -1,0 +1,8 @@
+------------ ------  -----------
+Name         Type    Line Numbers
+------------ ------  ------------
+d	 INT_TYPE		7
+m	 INT_TYPE		5
+c	 CHAR_TYPE	
+b	 INT_TYPE		2
+a	 INT_TYPE		1	4

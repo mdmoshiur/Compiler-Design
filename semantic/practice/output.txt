@@ -1,0 +1,19 @@
+Inserted a for the first time with linenumber 1!
+No problem
+Inserted b for the first time with linenumber 2!
+No problem
+Inserted c for the first time with linenumber 3!
+No problem
+Found a again at line 4!
+No problem valid exp.
+Inserted m for the first time with linenumber 5!
+No problem
+Found m again at line 6!
+No problem
+Inserted d for the first time with linenumber 7!
+No problem
+Found d again at line 8!
+Found a again at line 8!
+Found b again at line 8!
+No problem valid exp.
+Parsing finished!
